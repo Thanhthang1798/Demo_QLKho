@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo_QLKho</string>
+    <string name="abc">Mật Khẩu</string>
+    <string name="margin">10dp</string>
+</resources>

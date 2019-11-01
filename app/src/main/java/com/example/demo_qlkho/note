@@ -1,0 +1,9 @@
+id item hàng hóa
+    +ảnh sp: anh_sp
+    +tên: ten_sp
+    +mã sp: ma_sp
+    +số lượng: soluong_sp
+    +đơn vị tính: dvt_sp
+
+
+   
